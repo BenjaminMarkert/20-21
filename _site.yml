@@ -12,6 +12,8 @@ navbar:
         href: case-study-index.html
       - text: "Erster Teil der Case-Study"
         href: ./case-study/case_study_germany_1.html
+      - text: "Zweiter Teil der Case-Study"
+        href: ./case-study/case_study_germany_2.html 
   - text: RTutor-Problem-Sets
     menu:
       - text: "Problem Set 1"
@@ -29,8 +31,14 @@ navbar:
         href: ./tutorials/Pakete-Installieren.html
       - text: "Hilfreiche Fragen im Forum stellen"
         href: ./tutorials/Fragen-im-Forum.html
+      - text: "Leitlinien zur Projektausarbeitung"
+        href: ./tutorials/Leitlinien_zur_Projektabgabe.html
+      - text: "Review Reports erstellen"
+        href: ./tutorials/Review_Reports.html
+      - text: "Feedback zu den Review Report"
+        href: ./tutorials/Gruppenfeedback.html
       - text: "Cheatsheets"
-        href: ./tutorials/Cheatsheetshtml
+        href: https://rstudio.com/resources/cheatsheets/
   - text: Moodle
     href: https://moodle.uni-ulm.de/course/view.php?id=15914
   right:
